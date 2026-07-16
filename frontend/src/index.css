@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  color: #172033;
+  background: #f4f7f6;
+  font-family: Avenir Next, Avenir, ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
